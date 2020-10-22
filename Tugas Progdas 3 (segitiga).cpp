@@ -37,13 +37,13 @@ cout <<endl;
 	
 switch (menu) {
 	case 1 :	cout <<"Panjang Sisi Miring Segitiga adalah "<<hasil_akar<<endl;
-				break;
+			break;
 				
 	case 2 :	cout <<"Luas Segitiga adalah "<<luas<<endl;
-				break;
+			break;
 		
 	case 3 :	cout <<"Keliling Segitiga adalah "<<keliling<<endl;
-				break;
+			break;
 				
 	case 4 :	cout <<"Anda Telah Keluar Dari Program"<<endl;
 			return 0;

@@ -45,7 +45,8 @@ switch (menu) {
 	case 3 :	cout <<"Keliling Segitiga adalah "<<keliling<<endl;
 				break;
 				
-	case 4 :	return 0;
+	case 4 :	cout <<"Anda Telah Keluar Dari Program"<<endl;
+			return 0;
 }
 return 0;		
 }
